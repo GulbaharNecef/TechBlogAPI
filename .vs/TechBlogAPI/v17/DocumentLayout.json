@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\seeddata\\blogpostseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\seeddata\\blogpostseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723230019_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechBlogAPI\\Migrations\\20240723230019_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723225605_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechBlogAPI\\Migrations\\20240723225605_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\services\\implementation\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\services\\implementation\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\entities\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\entities\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\dtos\\blogpostdtos\\blogpostcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\dtos\\blogpostdtos\\blogpostcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\irepositories\\iblogpostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\irepositories\\iblogpostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\dtos\\blogpostdtos\\blogpostgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\dtos\\blogpostdtos\\blogpostgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\repositories\\blogpostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\repositories\\blogpostrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\responsemodels\\genericresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\responsemodels\\genericresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\services\\implementation\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\services\\implementation\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\services\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\services\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\services\\abstraction\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\services\\abstraction\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\services\\abstraction\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\services\\abstraction\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723050628_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TechBlogAPI\\Migrations\\20240723050628_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|c:\\users\\asus\\desktop\\techblogapi\\techblogapi\\services\\implementation\\tokenservice\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8898DC0A-8180-4BBF-AACE-28A6DBE64469}|TechBlogAPI\\TechBlogAPI.csproj|solutionrelative:techblogapi\\services\\implementation\\tokenservice\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240723230019_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723230019_mig1.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Migrations\\20240723230019_mig1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723230019_mig1.cs",
+              "RelativeToolTip": "TechBlogAPI\\Migrations\\20240723230019_mig1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T23:00:20.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240723225605_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723225605_initialCreate.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Migrations\\20240723225605_initialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723225605_initialCreate.cs",
+              "RelativeToolTip": "TechBlogAPI\\Migrations\\20240723225605_initialCreate.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:56:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPostSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\SeedData\\BlogPostSeeder.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\SeedData\\BlogPostSeeder.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\SeedData\\BlogPostSeeder.cs",
+              "RelativeToolTip": "TechBlogAPI\\SeedData\\BlogPostSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:20:01.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Implementation\\ImageService.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Services\\Implementation\\ImageService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Implementation\\ImageService.cs",
+              "RelativeToolTip": "TechBlogAPI\\Services\\Implementation\\ImageService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:01:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TechBlogAPI\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:18:41.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TechBlogAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:14:46.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Entities\\BlogPost.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Entities\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Entities\\BlogPost.cs",
+              "RelativeToolTip": "TechBlogAPI\\Entities\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:16:48.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "TechBlogAPI\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:09:45.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Controllers\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Controllers\\BlogPostController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Controllers\\BlogPostController.cs",
+              "RelativeToolTip": "TechBlogAPI\\Controllers\\BlogPostController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wCcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:50:27.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPostCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostCreateDTO.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostCreateDTO.cs",
+              "RelativeToolTip": "TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:12:44.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TechBlogAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:41:14.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Entities\\Image.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Entities\\Image.cs",
+              "RelativeToolTip": "TechBlogAPI\\Entities\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:02:03.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogPostGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostGetDTO.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostGetDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostGetDTO.cs",
+              "RelativeToolTip": "TechBlogAPI\\DTOs\\BlogPostDTOs\\BlogPostGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:54:57.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBlogPostRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\IRepositories\\IBlogPostRepo.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\IRepositories\\IBlogPostRepo.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\IRepositories\\IBlogPostRepo.cs",
+              "RelativeToolTip": "TechBlogAPI\\IRepositories\\IBlogPostRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:46:42.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Program.cs",
+              "RelativeToolTip": "TechBlogAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:46:09.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlogPostRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Repositories\\BlogPostRepo.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Repositories\\BlogPostRepo.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Repositories\\BlogPostRepo.cs",
+              "RelativeToolTip": "TechBlogAPI\\Repositories\\BlogPostRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:40:50.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\ResponseModels\\GenericResponseModel.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\ResponseModels\\GenericResponseModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\ResponseModels\\GenericResponseModel.cs",
+              "RelativeToolTip": "TechBlogAPI\\ResponseModels\\GenericResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:48:42.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Implementation\\BlogPostService.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Services\\Implementation\\BlogPostService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Implementation\\BlogPostService.cs",
+              "RelativeToolTip": "TechBlogAPI\\Services\\Implementation\\BlogPostService.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAcwCwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:05:08.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TechBlogAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\appsettings.json",
+              "RelativeToolTip": "TechBlogAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T19:20:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TechBlogAPI\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:19:59.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Abstraction\\IUserService.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Services\\Abstraction\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Abstraction\\IUserService.cs",
+              "RelativeToolTip": "TechBlogAPI\\Services\\Abstraction\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:45:56.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Abstraction\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Services\\Abstraction\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Abstraction\\IAuthService.cs",
+              "RelativeToolTip": "TechBlogAPI\\Services\\Abstraction\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:45:49.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBlogPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Abstraction\\IBlogPostService.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Services\\Abstraction\\IBlogPostService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Abstraction\\IBlogPostService.cs",
+              "RelativeToolTip": "TechBlogAPI\\Services\\Abstraction\\IBlogPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:41:36.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240723050628_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723050628_mig_1.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Migrations\\20240723050628_mig_1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Migrations\\20240723050628_mig_1.cs",
+              "RelativeToolTip": "TechBlogAPI\\Migrations\\20240723050628_mig_1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:06:28.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Implementation\\TokenService\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "TechBlogAPI\\Services\\Implementation\\TokenService\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\TechBlogAPI\\TechBlogAPI\\Services\\Implementation\\TokenService\\TokenHandler.cs",
+              "RelativeToolTip": "TechBlogAPI\\Services\\Implementation\\TokenService\\TokenHandler.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvy4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:30:41.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
